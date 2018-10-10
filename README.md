@@ -62,11 +62,12 @@ USD/ZAR	US Dollar/South African Rand
 ZAR/JPY	South African Rand/Japanese Yen
 
 Tasks:
-1. the highest, lowest opening price 
-2. the highest, lowest closing price
-3. the biggest diffrence in opening and closing price
-4. graf for 3. (all diffs by days for every day), by added by user currencys exchange
-5. graf for choosen by user currencys, and change by time(bid, ask separate)
+1. the highest, lowest opening price for every currency
+2. the highest, lowest closing price for every currency
+3. the biggest diffrence in opening and closing price for every currency
+
+4. diagram for 3. (all diffs by days for every day), by added by user currencys exchange
+5. diagram for choosen by user currencys, and change by time(bid, ask separate)
 6. the biggest diffrency by carrencys segregated in graf(ever appered)
 7. Open-high-low-close chart (https://en.wikipedia.org/wiki/Open-high-low-close_chart)
 8. bid/ask value for choosen by user currency to all others 
