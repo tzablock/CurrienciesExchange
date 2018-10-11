@@ -65,6 +65,7 @@ Tasks:
 1. the highest, lowest opening price for every currency
 2. the highest, lowest closing price for every currency
 3. the biggest diffrence in opening and closing price for every currency
+4. replace symbol by names(do own collection andbrodcast it)
 
 4. diagram for 3. (all diffs by days for every day), by added by user currencys exchange
 5. diagram for choosen by user currencys, and change by time(bid, ask separate)
