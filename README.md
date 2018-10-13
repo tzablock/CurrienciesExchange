@@ -69,6 +69,6 @@ Tasks:
 
 4. diagram for 3. (all diffs by days for every day), by added by user currencys exchange
 5. diagram for choosen by user currencys, and change by time(bid, ask separate)
-6. the biggest diffrency by carrencys segregated in graf(ever appered)
+6. the biggest diffrency by carrencys segregated in diagram(ever appered)
 7. Open-high-low-close chart (https://en.wikipedia.org/wiki/Open-high-low-close_chart)
 8. bid/ask value for choosen by user currency to all others 

@@ -1,0 +1,40 @@
+SYMBOL,CURRENCY_PAIR
+AUD/CAD,Australian Dollar/Canadian Dollar
+AUD/CHF,Australian Dollar/Swiss Franc
+AUD/JPY,Australian Dollar/Japanese Yen
+AUD/NZD,Australian Dollar/New Zealand Dollar
+AUD/USD,Australian Dollar/US Dollar
+CAD/CHF,Canadian Dollar/Swiss Franc
+CAD/JPY,Canadian Dollar/Japanese Yen
+CHF/JPY,Swiss Franc/Japanese Yen
+EUR/AUD,Euro/Australian Dollar
+EUR/CAD,Euro/Canadian Dollar
+EUR/CHF,Euro/Swiss Franc
+EUR/GBP,Euro/British Pound
+EUR/JPY,Euro/Japanese Yen
+EUR/NOK,Euro/Norwegian Krone
+EUR/NZD,Euro/New Zealand Dollar
+EUR/SEK,Euro/Swedish Krona
+EUR/TRY,Euro/Turkey Lira
+EUR/USD,Euro/US Dollar
+GBP/AUD,British Pound/Australian Dollar
+GBP/CAD,British Pound/Canadian Dollar
+GBP/CHF,British Pound/Swiss Franc
+GBP/JPY,British Pound/Japanese Yen
+GBP/NZD,British Pound/New Zealand Dollar
+GBP/USD,British Pound/US Dollar
+NZD/CAD,New Zealand Dollar/Canadian Dollar
+NZD/CHF,New Zealand Dollar/Swiss Franc
+NZD/JPY,New Zealand Dollar/Japanese Yen
+NZD/USD,New Zealand Dollar/US Dollar
+TRY/JPY,Turkey Lira/Japanese Yen
+USD/CAD,US Dollar/Canadian Dollar
+USD/CHF,US Dollar/Swiss Franc
+USD/CNH,US Dollar/Chinese Yuan
+USD/JPY,US Dollar/Japanese Yen
+USD/MXN,US Dollar/Mexican Peso
+USD/NOK,US Dollar/Norwegian Krone
+USD/SEK,US Dollar/Swedish Krona
+USD/TRY,US Dollar/Turkey Lira
+USD/ZAR,US Dollar/South African Rand
+ZAR/JPY,South African Rand/Japanese Yen
