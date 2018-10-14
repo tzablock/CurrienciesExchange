@@ -66,9 +66,14 @@ Tasks:
 2. the highest, lowest closing price for every currency
 3. the biggest diffrence in opening and closing price for every currency
 4. replace symbol by names(do own collection andbrodcast it)
+Result:
+"currency_pair","max_open_bid","min_close_bid","open_to_close_bid_diff","max_open_ask","min_close_ask","open_to_close_ask_diff","max_close_bid","max_close_ask","min_open_bid","min_open_ask"
 
-4. diagram for 3. (all diffs by days for every day), by added by user currencys exchange
+4. diagram for diffs in open and close for currencys chosen by user (all diffs by days for every day), by added by user currencys exchange
 5. diagram for choosen by user currencys, and change by time(bid, ask separate)
+
 6. the biggest diffrency by carrencys segregated in diagram(ever appered)
+
 7. Open-high-low-close chart (https://en.wikipedia.org/wiki/Open-high-low-close_chart)
+
 8. bid/ask value for choosen by user currency to all others 
